@@ -1,56 +1,56 @@
 <mxfile host="65bd71144e">
     <diagram id="HwAKhTz4qrpDBZMM8e1U" name="Page-1">
-        <mxGraphModel dx="734" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="800" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-1" value="&lt;div&gt;INPUT: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Integer in Sekunden&lt;/div&gt;&lt;div&gt;&quot;varsec&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-1" value="&lt;div&gt;INPUT: &lt;br&gt;&lt;/div&gt;&lt;div&gt;Integer in Sekunden&lt;/div&gt;&lt;div&gt;&quot;varsec&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
                     <mxGeometry x="90" y="120" width="140" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-2" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-2" value="" style="endArrow=classic;html=1;strokeColor=#788AA3;fontColor=#46495D;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="160" y="220" as="sourcePoint"/>
                         <mxPoint x="160" y="290" as="targetPoint"/>
                         <Array as="points"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-3" value="&lt;div&gt;varmin=varsec/60&lt;/div&gt;&lt;div&gt;varsec = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-3" value="&lt;div&gt;varmin=varsec/60&lt;/div&gt;&lt;div&gt;varsec = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
                     <mxGeometry x="110" y="300" width="110" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-4" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-4" value="" style="endArrow=classic;html=1;strokeColor=#788AA3;fontColor=#46495D;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="160" y="420" as="sourcePoint"/>
                         <mxPoint x="160" y="500" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-6" value="&lt;div&gt;varhour=varmin/60&lt;/div&gt;&lt;div&gt;varmin = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-6" value="&lt;div&gt;varhour=varmin/60&lt;/div&gt;&lt;div&gt;varmin = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
                     <mxGeometry x="105" y="520" width="110" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-7" value="" style="endArrow=classic;html=1;strokeColor=#788AA3;fontColor=#46495D;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="155" y="640" as="sourcePoint"/>
                         <mxPoint x="155" y="720" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-8" value="&lt;div&gt;varday=varhour/24&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;varhour = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-8" value="&lt;div&gt;varday=varhour/24&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;varhour = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
                     <mxGeometry x="97.5" y="750" width="125" height="125" as="geometry"/>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-9" value="" style="endArrow=classic;html=1;strokeColor=#788AA3;fontColor=#46495D;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="155" y="870" as="sourcePoint"/>
                         <mxPoint x="155" y="950" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-10" value="&lt;div&gt;varweek=varday/7&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;varday = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-10" value="&lt;div&gt;varweek=varday/7&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;varday = remainder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
                     <mxGeometry x="105" y="960" width="110" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-11" value="" style="endArrow=classic;html=1;" parent="1" target="OdKZN20U_0QvpqmyDAUV-12" edge="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-11" value="" style="endArrow=classic;html=1;strokeColor=#788AA3;fontColor=#46495D;" parent="1" target="OdKZN20U_0QvpqmyDAUV-12" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="230" y="1010" as="sourcePoint"/>
                         <mxPoint x="360" y="840" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="OdKZN20U_0QvpqmyDAUV-12" value="&lt;div&gt;OUTPUT:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&quot;[varweek] weeks [varday] days [varhour] hours [varmin] minutes and [varsec] seconds&quot; " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="OdKZN20U_0QvpqmyDAUV-12" value="&lt;div&gt;OUTPUT:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&quot;[varweek] weeks [varday] days [varhour] hours [varmin] minutes and [varsec] seconds&quot; " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
                     <mxGeometry x="310" y="710" width="190" height="125" as="geometry"/>
                 </mxCell>
             </root>

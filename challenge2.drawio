@@ -44,7 +44,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="9" value="all lights&lt;br&gt;keep blinking" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=15;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
+                <mxCell id="9" value="all lights&lt;br&gt;keep blinking yellow" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=15;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" vertex="1">
                     <mxGeometry x="920" y="250" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="no&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=15;fontColor=#1D3557;" parent="1" vertex="1">
@@ -197,7 +197,7 @@
                         <mxPoint x="1250" y="397" as="sourcePoint"/>
                         <mxPoint x="1136" y="565" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="1140" y="397"/>
+                            <mxPoint x="1136" y="397"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
